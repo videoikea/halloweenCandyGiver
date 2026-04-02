@@ -1,0 +1,57 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor 
+Raspberry Pi,Inputs camera and button data and outputs servo positions,1,40,https://www.digikey.com/en/products/detail/raspberry-pi/SC0073/8571724,Digikey
+Terminal Block,Connects 14AWG wire to power supply and servo drivers,3,0.96,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/TB002-500-02BE/10064069,Digikey
+Header Row (F),Structural and electrical support between PCB and Raspberry Pi,2,3.52,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61304021821/16608657,Digikey
+Push Button,User presses a button that corresponds to a type of candy,4,0.4,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-55-BK-160-LCR-D/15634374?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLlhl8y2A1lkF4FOXo2CeveWf1&gclid=Cj0KCQjwmunNBhDbARIsAOndKpn9HLTVNnSi38URbq4MfKIhHEw79Qnhzsc2nthJDEQcYhQfrIrBviAaApRQEALw_wcB,Digikey
+PCB,"Connects power supply to Raspberry Pi and servo drivers, connects Raspberry Pi to servo drivers and buttons",1,12.81,https://www.pcbway.com/Order/QuickOrderOnline,PCBWay
+Servo (6-pack),Converts PWM signal into positional radial motion,1,26.98,https://www.amazon.com/Deegoo-FPV-Servo-MG995-Metal-Gear/dp/B0D7M4LHBP/,Amazon
+Camera,Captures candy bowl and identifies different candy types,1,6.99,https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/,Amazon
+Shafts (8-pack),Structurally strong rod that provides an axis for rotation,1,9.88,https://www.amazon.com/Linear-Motion-Printer-Machine-Diameter/dp/B0BJD83HMG/,Amazon
+Bearings (20-pack),Allows for fluid motion between shafts and 3D prints,,5.99,https://www.amazon.com/PCS-608-ZZ-Ball-Bearings/dp/B07CVBSC9Y/,Amazon
+M4 Screws,Screws for structural parts like plates and servos,1,6.99,https://www.amazon.com/Mr-Pieces-Button-Socket-Washers/dp/B0D6LLHBFY/,Amazon
+M2.5 Screws,Screws for electronics like camera and Raspberry Pi,1,6.58,https://www.amazon.com/Washers-Stainless-Machine-Assortment-Threaded/dp/B0DCKC41W3/,Amazon
+Filament,Material that 3D printer turns into custom parts,1,9.99,https://www.amazon.com/Filament-Dimensional-Accuracy-Toughness-Resistance/dp/B0DS4BB39T/ref=sr_1_8?crid=19DLMZOHH39EI&dib=eyJ2IjoiMSJ9.yf4QrGfdb01bS0owhB7XaAL1s4Md4ktQ1OtfD_hfl9mzCbgWQGh0bwU--PiDLr19jmGkafGg-PXGoxMdLZmjfmRx6bRysu2pwbuB1wMxR8Pe9938Eem0e6ZQGu3ju7v4tUeKPaD_j1XNaczB3vYOVv-YUplmZQJxHHIIHY3mKbyeXddKMPOCO6FgCWfNdmwsxGOu4R5ln_1ctcdTKL9sJtyPwgvHh2hXQYV1Df0t89k.0O7UpoWXlGtNzHexIQWnEvsx7JbM3ywq2BVs-7tF3_s&dib_tag=se&keywords=petg&qid=1774128995&sprefix=pet%2Caps%2C185&sr=8-8&th=1,Amazon
+14AWG Wire,"Runs power between power supply, PCB, and controllers",1,6.49,https://www.amazon.com/HiFind-Electrical-Extension-Flexible-Lighting/dp/B0D922D4YF/,Amazon
+I2C to PWM (2-pack),Converts Raspberry Pi I2C to servo PWM,1,8.99,https://www.amazon.com/Dorhea-PCA9685-Interface-Controller-Raspberry/dp/B07RMTN4NZ,Amazon
+Power Supply,Provides 5V15A power for circuit,1,19.99,https://www.amazon.com/ALITOVE-Transformer-Adapter-Converter-Charger/dp/B06XK2DDW4/,Amazon
+Wall Outlet,Converts wall power to supply's screw terminals,1,11.99,https://www.amazon.com/Vockjour-Appliance-Replacement-Pigtail-Listed/dp/B0FFB125CG/,Amazon
+PWM Extension,Extends servo wires to controller,1,4.99,https://www.amazon.com/VIMVIP-Female-Futaba-Extension-Control/dp/B00N8P8TT8/,Amazon
+Tax,Money to the motherland,N/A,15.14205,,N/A
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,198.68205,,
